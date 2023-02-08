@@ -1,1 +1,3 @@
-# Dex Starter Repo (Moralis Blueprint)
+# Moralis DEX
+
+With this project I familiarized myself with Moralis
