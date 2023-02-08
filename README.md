@@ -1,6 +1,7 @@
 # Moralis DEX
 
-With this project I familiarized myself with Moralis asn Wagmi. This project is a dex similar to 1Inch or UniSwap where you can perform a swap between a selection of tokens.
+With this project I familiarized myself with Moralis and Wagmi. This project is a dex similar to 1Inch or UniSwap where you can perform a swap between a selection of tokens.
+You can find the tutorial I followed [here](https://www.youtube.com/watch?v=t8U7GRrlYW8&list=PLk7ZYbFb3ivvE6VfcjVC3GLFKEc3dxF3u&index=101)
 
 ## Technology Stack & Tools
 
